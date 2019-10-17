@@ -1,0 +1,3 @@
+ - As a user, I want to add dishes to my menù, so I can personalize it.
+ - As an admin, I want to define the daily offers.
+ - As a user, I want to rate a dish, so I can helps other user.
