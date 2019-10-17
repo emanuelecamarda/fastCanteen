@@ -1,0 +1,3 @@
+ - The system shall provide a list of all ingredients for all dishes.
+ - The system shall provide to pay through the app or on the spot.
+ - The system shall provide registration method for a user.
